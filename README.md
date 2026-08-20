@@ -1,4 +1,4 @@
-# 🏦 Abstraction & Interface Design in Python: Banking Software
+# 🏦 Abstraction in Python: Banking Software
 
 ### This repository explores **Abstraction** and **Abstract Base Classes (ABC)** in Python, demonstrating how to enforce design standards across different application interfaces (such as Mobile and Web apps).
 
